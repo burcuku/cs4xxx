@@ -1,9 +1,8 @@
 ---
 type: lecture
 date: 2021-04-01
-title: Concurrency in shared memory and distributed programs
-tldr: "The notions of concurrency, asynchrony, parallelism, and distribution
-       <br> Different flavors of concurrency: Multithreaded shared memory vs message-passing concurrency"
+title: Replication and consistency in distributed systems
+tldr: "Replicated systems, strong vs weak consistency"
 hide_from_announcments: true
 #thumbnail: /static_files/presentations/lec.jpg
 #links: 

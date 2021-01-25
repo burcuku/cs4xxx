@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for paper in site.papers %}
+<li class="archiveposturl" style="background: transparent">
+<div class="paper-container">
+    <div class="content">
+        <span style="font-weight: bold;">{{ paper.title }}</span><br>
+
+        {{ paper.tldr }}
+        <br/>
+        
+        {% if paper.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ paper.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>

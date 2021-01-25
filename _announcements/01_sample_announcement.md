@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2021-11-17
 ---
-Sample announcement, Please check out [here](/).
+Course announcements and updates will appear here.
