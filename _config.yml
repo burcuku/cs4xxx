@@ -5,7 +5,7 @@ course_description: ""
 
 baseurl: "/cs4xxx" # the subpath of your site, e.g. /blog/
 url: "http://burcuku.github.io/" # the base hostname & protocol for your site
-repository: "burcuku/jekyll-course-website-template"
+repository: "burcuku/cs4xxx"
 
 #schoolname: "Hogwarts"
 #schoolurl: "https://hogwarts.edu"
