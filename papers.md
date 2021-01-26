@@ -43,7 +43,11 @@ Dikaimin Simon, Satria Priambada, Chen Tian, Feng Ye, Tanakorn Leesatapornwongsa
 
 **[Understanding Node Change Bugs for Distributed Systems](https://ieeexplore.ieee.org/abstract/document/8668027)**  
 Jie Lu, Chen Liu, Lian Li, Xiaobing Feng.  
-26th International Conference on Software Analysis, Evolution and Reengineering (SANER)
+26th International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019.
+
+**[CLOTHO: directed test generation for weakly consistent database systems](https://dl.acm.org/doi/10.1145/3360543)**
+Kia Rahmani, Kartik Nagar, Benjamin Delaware, Suresh Jagannathan.
+Proceedings of the ACM on Programming Languages (PACML), 2019.
 
 **[Effective concurrency testing for distributed systems](https://dl.acm.org/doi/10.1145/3373376.3378484)**  
 Xinhao Yuan and Junfeng Yang.  
@@ -52,12 +56,12 @@ Xinhao Yuan and Junfeng Yang.
 
 **[Learning-based controlled concurrency testing](https://dl.acm.org/doi/10.1145/3428298)**  
 Suvam Mukherjee, Pantazis Deligiannis, Arpita Biswas, and Akash Lal.   
-Proceedings of the ACM on Programming Languages, (PACML) 2020.
+Proceedings of the ACM on Programming Languages (PACML), 2020.
 
 
 **[Testing consensus implementations using communication closure](https://dl.acm.org/doi/10.1145/3428278)**  
 Cezara Draggoi, Constantin Enea, Burcu Kulahcioglu Ozkan, Rupak Majumdar, and Filip Niksic.  
-Proceedings of the ACM on Programming Languages, (PACML) 2020.
+Proceedings of the ACM on Programming Languages (PACML), 2020.
 
 
 **[Elle: Inferring isolation anomalies from experimental observations](https://dl.acm.org/doi/10.5555/3430915.3442427)**  
@@ -68,6 +72,7 @@ Proceedings of the VLDB Endowment, 2020.
 **[Understanding, detecting and localizing partial failures in large system software](https://www.usenix.org/system/files/nsdi20-paper-lou.pdf)**  
 Chang Lou, Peng Huang, and Scott Smith.  
 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2020.
+
 
 
 The selection of seminar papers are subject to change based on recent publications.
