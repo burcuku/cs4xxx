@@ -59,8 +59,8 @@ Suvam Mukherjee, Pantazis Deligiannis, Arpita Biswas, and Akash Lal.
 Proceedings of the ACM on Programming Languages (PACML), 2020.
 
 
-**[Testing consensus implementations using communication closure](https://dl.acm.org/doi/10.1145/3428278)**  
-Cezara Draggoi, Constantin Enea, Burcu Kulahcioglu Ozkan, Rupak Majumdar, and Filip Niksic.  
+**[DiffStream: differential output testing for stream processing programs](https://dl.acm.org/doi/abs/10.1145/3428221)**  
+Konstantinos Kallas, Filip Niksic, Caleb Stanford, Rajeev Alur.  
 Proceedings of the ACM on Programming Languages (PACML), 2020.
 
 
